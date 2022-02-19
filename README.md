@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erhan BARIŞ (Ruslan Ognyanov Asenov)</h1>
 <h3 align="center">I am software engineer at Motorola Solutions</h3>
 
-- 🔭 I’m currently working on [Karamel Programming Language](https://github.com/erhanbaris/karamel)
+- 🔭 I’m currently working on [SmartCalc](https://github.com/erhanbaris/smartcalc) and [Karamel Programming Language](https://github.com/erhanbaris/karamel)
 
 - 📫 How to reach me **erhanbaris@gmail.com**
 
