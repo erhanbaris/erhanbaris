@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erhan BARIŞ (Ruslan Ognyanov Asenov)</h1>
 <h3 align="center">I am engineering manager at Motorola Solutions</h3>
 
-- 🔭 I’m currently working on [Timug Static Page Generator](https://github.com/erhanbaris/timug) compiler.
+- 🔭 I’m currently working on [Timug Static Page Generator](https://github.com/erhanbaris/timug).
 
 - 📫 How to reach me **erhanbaris@gmail.com**
 
